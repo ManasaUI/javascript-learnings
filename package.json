@@ -1,0 +1,14 @@
+{
+  "name": "javascript-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "author": "Manasa",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.1"
+  }
+}
+
